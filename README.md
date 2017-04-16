@@ -4,3 +4,4 @@
 2) Actor-Goal model, Use Case Diagram, Fully Dressed ve Business Rules eklendi.
 3) Domain model eklendi.
 4) SSD, SMD ve Operation Contracts eklendi.
+5) Logical Architecture eklendi.
