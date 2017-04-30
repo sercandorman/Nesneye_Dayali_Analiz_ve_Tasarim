@@ -5,3 +5,4 @@
 3) Domain model eklendi.
 4) SSD, SMD ve Operation Contracts eklendi.
 5) Logical Architecture eklendi.
+6) Colloboration Diagram eklendi.
