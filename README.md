@@ -6,3 +6,4 @@
 4) SSD, SMD ve Operation Contracts eklendi.
 5) Logical Architecture eklendi.
 6) Collaboration Diagram eklendi.
+7) Class Diagram eklendi.
